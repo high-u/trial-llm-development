@@ -54,7 +54,7 @@ PARAMETER num_ctx 16384
 ollama create qwen2.5-coder-32b-instruct-q2_k:v1.3 -f qwen2.5-coder-32b-instruct-q2_k.Modelfile
 ```
 
-## アシスタント（エージェント？）
+## AI アシスタント
 
 [Zed](https://zed.dev/)
 
